@@ -1,2 +1,2 @@
 # Machine-Learning
-The repository contains results of some exercises in machine learning
+The repository contains results of exercises in machine learning
